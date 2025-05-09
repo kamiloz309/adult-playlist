@@ -1,15 +1,15 @@
-#EXTM3U
+#EXTM3U8
 #EXTINF:-1, LATINAS
 http://live.adultiptv.net/latina.m3u8
-#EXTM3U
+#EXTM3U8
 #EXTINF:-2, POV
 http://live.adultiptv.net/pov.m3u8
-#EXTM3U
+#EXTM3U8
 #EXTINF:-3, TEEN
 http://live.adultiptv.net/teen.m3u8
-#EXTM3U
+#EXTM3U8
 #EXTINF:-4, Lesbian
 http://live.adultiptv.net/lesbian.m3u8
-#EXTM3U
+#EXTM3U8
 #EXTINF:-5, Anal
 http://live.adultiptv.net/anal.m3u8
