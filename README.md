@@ -1,5 +1,3 @@
-# adult-playlist
-solo adultos y aventura
 #EXTM3U
 #EXTINF:-1, LATINAS
 http://live.adultiptv.net/latina.m3u8
